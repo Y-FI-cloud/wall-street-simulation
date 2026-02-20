@@ -21,3 +21,14 @@ To run this game locally on your machine, follow these steps:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
+   
+2. **Install the required libraries:**
+Make sure you have Python installed, then run:
+```bash
+pip install -r requirements.txt
+```
+3. **Run the Streamlit app:**
+
+ ```bash
+streamlit run app.py
+(Note: If your Python script has a different name, replace app.py with the name of your file).
