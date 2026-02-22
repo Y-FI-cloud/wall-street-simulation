@@ -19,8 +19,8 @@ To run this game locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone [https://github.com/Y-FI-cloud/wall-street-simulation.git](https://github.com/Y-FI-cloud/wall-street-simulation.git)
+   cd wall-street-simulation
    
 2. **Install the required libraries:**
 Make sure you have Python installed, then run:
