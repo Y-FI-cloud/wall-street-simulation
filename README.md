@@ -31,4 +31,4 @@ pip install -r requirements.txt
 
  ```bash
 streamlit run app.py
-(Note: If your Python script has a different name, replace app.py with the name of your file).
+
